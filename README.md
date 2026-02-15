@@ -1,0 +1,2 @@
+# AIML-Cost-Sensitive-Fraud-Detection-Using-Ensemble-Learning-and-Performance-Driven-Model-Selection
+Built an end-to-end fraud detection model using Logistic Regression, Decision Tree, Random Forest, SVM, and XGBoost. Evaluated models using accuracy, precision, recall, and F1-score with proper train-test validation. Selected XGBoost based on highest F1 and balanced performance, ensuring strong generalization and business-focused decision making
